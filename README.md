@@ -1,4 +1,4 @@
-# Cartoon Network MakeCode: Garnet's Palm Gems from Steven Universe
+# Cartoon Network: Garnet's Palm Gems from Steven Universe - Port from MakeCode to CircuitPython
 
 A port of Adafruit Cartoon Network MakeCode: Garnet's Palm Gems from Steven Universe to Circuit Python for this CPX project. Originally a small project as part of Dublin Raspberry Pi Jam a few years ago.
 
